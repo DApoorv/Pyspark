@@ -1,3 +1,7 @@
+YouTube link - https://www.youtube.com/watch?v=2QP9MkfHu6w&list=PLTsNSGeIpGnGxza11zibRs2r0FIJCNur6
+https://people.eecs.berkeley.edu/~kubitron/courses/cs262a-F13/projects/reports/project16_report.pdf
+https://kontext.tech/article/975/spark-repartition-function-internals
+
 Interviewer: You're running a Spark job on a large dataset stored in HDFS. Suddenly, you notice that the job is taking longer than usual to complete. How would you troubleshoot ?
 
 Candidate: When faced with a slowdown in a Spark job, several factors could be contributing to the issue. Here's how I would approach:
